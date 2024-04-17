@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <head>
     <title> Saveetha Engineering College </title>
     <body bgcolor="Cyan" text ="black"></body>
@@ -41,6 +42,7 @@
         </ol>
         </head>
         </html>
+```
 
 ## OUTPUT
 ![image](https://github.com/hephzibaharulmaran/Ex02_Web-Design/assets/166100727/64b518c1-d85e-4ee2-960b-3b3fab30f9cc)
