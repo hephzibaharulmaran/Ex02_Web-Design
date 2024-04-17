@@ -22,6 +22,7 @@
 
 
 ## OUTPUT
+![image](https://github.com/hephzibaharulmaran/Ex02_Web-Design/assets/166100727/c85d65da-50cc-438f-96a7-2f4bfb8b92c4)
 
 
 ## RESULT
